@@ -18,21 +18,21 @@
     {
       "id": 3,
       "title":"Groentensoep",
-      "image": "falafel.jpeg",
+      "image": "vegetable-soup.jpeg",
       "description": "Courgette en tomaat zijn heerlijke zomergroenten. Varieer in de winter of vroege lente met knolselder, pastinaak of pompoen in je soep.",
       "ingredienten":["1 teentje look","2 uien","2 wortels","enkele stengels selder","1 courgette", "1 bokaal tomatenstukjes of 4 verse tomaten","1 blaadje laurier","1 theelepel rozemarijn","vers gemalen zwarte peper","zout","groentenbouillon","zonnebloemolie"]
     },
     {
       "id": 4,
       "title":"Hummus van rode biet",
-      "image": "falafel.jpeg",
+      "image": "Rode_bietenhummus_spread_foto4.jpeg",
       "description": "Combineer met fijn geraspte witte kool, rode kool, rammenas, koolrabi en een looksaus je in een volkoren pitabroodje. Heerlijke snack in de winter! Zet je dit in een ander seizoen op het menu? Raadpleeg de seizoenskalender van Velt.",
       "ingredienten":["3 medium rauwe rode bieten, in blokjes gesneden", "2 eetlepels olijfolie", "2 teentjes knoflook", "125 gram gekookte kikkererwten", "1 ½ theelepel karwijzaadjes", "½ theelepel venkelzaadjes", "½ theelepel kardemomzaadjes", "150 ml olijfolie", "3 eetlepels versgeperst limoensap", "peper en zout"]
     },
     {
       "id": 5,
       "title":"Bloemkoolcurry met kip",
-      "image": "falafel.jpeg",
+      "image": "chickpea-390706.tiff",
       "description": "Tijd voor weer een heel lekker curry recept. Deze bloemkoolcurry met kip is ideaal voor op een doordeweekse avond of voor wanneer je eigenlijk niet zo heel veel zin hebt om te koken. Dit gerecht staat namelijk al in 20 minuten op tafel. Daar kan haast geen pizzakoerier tegenop ;-).",
       "ingredienten":[
         "250 gr bloemkoolroosjes",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "title":"SPAGHETTI AGLIO E OLIO MET TOMAATJES",
-      "image": "falafel.jpeg",
+      "image": "savoy-3153656.tiff",
       "description": "Deze salade is door de gemakkelijke dressing in een handomdraai aan te passen aan het juiste seizoen. Gebruik hiervoor de seizoenskalender van Velt.",
       "ingredienten":[
         "250 gr spaghetti",
