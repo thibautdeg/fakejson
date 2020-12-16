@@ -4,35 +4,35 @@
       {
         "id": 1,
         "title":"Couscoussalade",
-        "image": "../assets/images/couscous-salad.jpeg",
+        "image": "couscous-salad",
         "description": "Komkommer is een typisch Belgische zomergroente. Van boer tot bord zonder te veel tussenschakels en vervuilend transport. Wat is er mooier?",
         "ingredienten":["2 grote koppen couscous", "1 komkommer", "3 stengels bleekselder", "2 rode uien", "verse peterselie", "1 handje rozijntjes", "sap van 1 citroen", "olijfolie naar smaak", "peper en zout"]
       },
       {
       "id": 2,
       "title":"Falafelballetjes",
-      "image": "../assets/images/falafel.jpeg",
+      "image": "falafel",
       "description": "Combineer met fijn geraspte witte kool, rode kool, rammenas, koolrabi en een looksaus je in een volkoren pitabroodje. Heerlijke snack in de winter! Zet je dit in een ander seizoen op het menu? Raadpleeg de seizoenskalender van Velt.",
       "ingredienten":["400 g kikkererwten", "1 ui", "verse peterselie", "2 eetlepels kikkererwtenmeel", "2 theelepels zout", "2 theelepels gemalen komijn", "1 theelepel gemalen koriander", "snufje cayennepeper", "vers gemalen zwarte peper", "Olie om in te bakken"]
     },
     {
       "id": 3,
       "title":"Groentensoep",
-      "image": "./assets/images/falafel.jpeg",
+      "image": "falafel",
       "description": "Courgette en tomaat zijn heerlijke zomergroenten. Varieer in de winter of vroege lente met knolselder, pastinaak of pompoen in je soep.",
       "ingredienten":["1 teentje look","2 uien","2 wortels","enkele stengels selder","1 courgette", "1 bokaal tomatenstukjes of 4 verse tomaten","1 blaadje laurier","1 theelepel rozemarijn","vers gemalen zwarte peper","zout","groentenbouillon","zonnebloemolie"]
     },
     {
       "id": 4,
       "title":"Hummus van rode biet",
-      "image": "../assets/images/falafel.jpeg",
+      "image": "falafel",
       "description": "Combineer met fijn geraspte witte kool, rode kool, rammenas, koolrabi en een looksaus je in een volkoren pitabroodje. Heerlijke snack in de winter! Zet je dit in een ander seizoen op het menu? Raadpleeg de seizoenskalender van Velt.",
       "ingredienten":["3 medium rauwe rode bieten, in blokjes gesneden", "2 eetlepels olijfolie", "2 teentjes knoflook", "125 gram gekookte kikkererwten", "1 ½ theelepel karwijzaadjes", "½ theelepel venkelzaadjes", "½ theelepel kardemomzaadjes", "150 ml olijfolie", "3 eetlepels versgeperst limoensap", "peper en zout"]
     },
     {
       "id": 5,
       "title":"Bloemkoolcurry met kip",
-      "image": "../assets/images/falafel.jpeg",
+      "image": "falafel",
       "description": "Tijd voor weer een heel lekker curry recept. Deze bloemkoolcurry met kip is ideaal voor op een doordeweekse avond of voor wanneer je eigenlijk niet zo heel veel zin hebt om te koken. Dit gerecht staat namelijk al in 20 minuten op tafel. Daar kan haast geen pizzakoerier tegenop ;-).",
       "ingredienten":[
         "250 gr bloemkoolroosjes",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "title":"SPAGHETTI AGLIO E OLIO MET TOMAATJES",
-      "image": "falafel.jpeg",
+      "image": "falafel",
       "description": "Deze salade is door de gemakkelijke dressing in een handomdraai aan te passen aan het juiste seizoen. Gebruik hiervoor de seizoenskalender van Velt.",
       "ingredienten":[
         "250 gr spaghetti",
